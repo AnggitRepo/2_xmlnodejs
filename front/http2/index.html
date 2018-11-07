@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>ajax in nodejs</h1>
+<script>
+var xhr = new XMLHttpRequest(),
+    method = "GET",
+    url = "http://192.168.100.117:8080/produk";
+
+xhr.open(method, url, true);
+xhr.onreadystatechange = function () {
+  if(xhr.readyState === 4 && xhr.status === 200) {
+    console.log(xhr.responseText);
+  }
+};
+xhr.send();
+</script>
+
+</body>
+</html>

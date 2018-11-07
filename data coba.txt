@@ -1,0 +1,9 @@
+https://github.com/antimatter15/node-http-on-xhr/blob/master/http.js
+https://www.npmjs.com/package/xhr-request
+https://www.npmjs.com/package/request
+https://www.npmjs.com/package/xhr
+https://www.npmjs.com/package/xmlhttprequest
+
+nodejs.org
+https://www.tutorialspoint.com/nodejs/nodejs_repl_terminal.htm
+https://www.w3schools.com/nodejs/default.asp
